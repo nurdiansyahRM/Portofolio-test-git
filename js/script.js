@@ -18,3 +18,5 @@ function typeEffect() {
 }
 target.innerHTML = " ";
 typeEffect();
+
+console.log("hallo ucup");
