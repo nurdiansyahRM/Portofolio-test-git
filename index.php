@@ -293,7 +293,7 @@ var_dump($videoId);
               <h3>Location</h3>
             </li>
             <li class="list-group-item">My Office</li>
-            <li class="list-group-item">Jl. Setiabudhi No. 193, Bandung</li>
+            <li class="list-group-item">Jl. Rancabolang no 133</li>
             <li class="list-group-item">West Java, Indonesia</li>
           </ul>
         </div>
